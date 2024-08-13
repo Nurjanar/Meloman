@@ -62,5 +62,6 @@ HELP.md
 build/*
 *.gradle
 gradle/*
-gradlew/
+gradlew
 *.bat
+*.properties
